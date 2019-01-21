@@ -15,6 +15,7 @@ import java.io.IOException;
  * @Author: guandezhi
  * @Date: 2019/1/20 20:40
  */
+@Slf4j
 @GdzController
 @GdzReqeustMapping("/user")
 public class UserController {
